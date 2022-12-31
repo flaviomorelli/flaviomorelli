@@ -7,8 +7,7 @@ and also as a business consultant at BCPro and PwC.
 
 I am a statistician by training: I got my M.Sc. in Statistics at the Humboldt University of Berlin. 
 I have one B.Sc. in Economics and one B.A. in Comparative Literature (major) and Computer Science (minor), both from the Free University of Berlin.
-Additionally, I am an organizer of the meetup [Berlin Bayesians](https://www.meetup.com/berlinbayesians/).
-
+Moreover, I am an organizer of the meetup [Berlin Bayesians](https://www.meetup.com/berlinbayesians/).
 
 
 # Reseach interests
@@ -33,7 +32,7 @@ If you would like to collaborate with me, feel free to reach out in any of the s
 If you are interested in my consulting services, please check this [link](https://flaviomorelli.com/consulting/).
 
 
-# Tech kills
+# Tech stack
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -49,5 +48,5 @@ If you are interested in my consulting services, please check this [link](https:
 </div>
 
 
-I also have some experience with Julia, Rust, Go, C, and Java. 
+In addition, I am familiar with Bayesian frameworks such as `Stan` and `PyMC`. I also have some experience with `Julia`, `Rust`, `Go`, `C`, and `Java`. 
 
