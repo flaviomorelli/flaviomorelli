@@ -7,7 +7,7 @@ and also as a business consultant at BCPro and PwC.
 
 I am a statistician by training: I got my M.Sc. in Statistics at the Humboldt University of Berlin. 
 I have one B.Sc. in Economics and one B.A. in Comparative Literature (major) and Computer Science (minor), both from the Free University of Berlin.
-Moreover, I am an organizer of the meetup [Berlin Bayesians](https://www.meetup.com/berlinbayesians/).
+Moreover, I am an organizer of the [Berlin Bayesians](https://www.meetup.com/berlinbayesians/) meetup.
 
 
 # Reseach interests
