@@ -15,8 +15,7 @@ Moreover, I am an organizer of the [Berlin Bayesians](https://www.meetup.com/ber
 * Machine learning for science
 * Bayesian methods / Bayesian workflow
 * Causality
-* Category Theory for Deep Learning
-
+  
 # Resources and links
 
 *  Website: [flaviomorelli.com](flaviomorelli.com)
