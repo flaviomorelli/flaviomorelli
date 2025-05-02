@@ -25,6 +25,7 @@ Moreover, I am an organizer of the [Berlin Bayesians](https://www.meetup.com/ber
 # Publications (as first author)
 
 * uniDINO: Assay-independent feature extraction for fluorescence microscopy images. [Paper](https://www.csbj.org/article/S2001-0370(25)00047-9/fulltext). [Repo](https://github.com/Bayer-Group/uniDINO/).
+* Predicting in vitro assays related to liver function using probabilistic machine learning. Paper under review. [Repo](https://github.com/Bayer-Group/bayesian_admet).
 
 # Contact
 
